@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi Human!
+
+I am your friend and I want beer.
